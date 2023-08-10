@@ -1,0 +1,14 @@
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\bin\Debug\net6.0\CleanArchitecture.App.deps.json
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\bin\Debug\net6.0\CleanArchitecture.App.runtimeconfig.json
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\bin\Debug\net6.0\CleanArchitecture.App.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\bin\Debug\net6.0\CleanArchitecture.App.pdb
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\refint\CleanArchitecture.App.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.pdb
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\CleanArchitecture.App.genruntimeconfig.cache
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.App\obj\Debug\net6.0\ref\CleanArchitecture.App.dll
