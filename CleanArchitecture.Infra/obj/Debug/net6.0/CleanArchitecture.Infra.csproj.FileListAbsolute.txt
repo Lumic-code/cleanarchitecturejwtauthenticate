@@ -13,3 +13,5 @@ C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.Infr
 C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.Infra\obj\Debug\net6.0\refint\CleanArchitecture.Infra.dll
 C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.Infra\obj\Debug\net6.0\CleanArchitecture.Infra.pdb
 C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.Infra\obj\Debug\net6.0\ref\CleanArchitecture.Infra.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.Infra\bin\Debug\net6.0\CleanArchitecture.App.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitecture.Infra\bin\Debug\net6.0\CleanArchitecture.App.pdb

@@ -9,6 +9,7 @@ namespace CleanArchitecture.Infra
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration Configuration)
         {
             services.AddSqlServer<DemoDBContext>(Configuration.GetConnectionString("DefaultConnection"));
+ 
             return services;
         }
     }

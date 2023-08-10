@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CleanArchitecture.Core.Entities
 
 {
-    public class Product
+    public class Product : BaseEntity
     {
         public long ProductId { get; set; }
         public string? ProductName { get; set; }

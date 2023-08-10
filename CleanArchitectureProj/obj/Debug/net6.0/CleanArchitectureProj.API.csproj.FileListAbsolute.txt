@@ -67,3 +67,6 @@ C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\
 C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\obj\Debug\net6.0\CleanArchitectureProj.API.pdb
 C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\obj\Debug\net6.0\CleanArchitectureProj.API.genruntimeconfig.cache
 C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\obj\Debug\net6.0\ref\CleanArchitectureProj.API.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\bin\Debug\net6.0\CleanArchitecture.App.dll
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\bin\Debug\net6.0\CleanArchitecture.App.pdb
+C:\Users\wisdo\OneDrive\Desktop\CleanArchitectureProj.API\CleanArchitectureProj\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
