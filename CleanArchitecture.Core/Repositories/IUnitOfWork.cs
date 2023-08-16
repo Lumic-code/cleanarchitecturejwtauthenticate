@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.Core.Repositories
 {
-     public interface IProductRepository
+    internal interface IUnitOfWork
     {
-
     }
 }

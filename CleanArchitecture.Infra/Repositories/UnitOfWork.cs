@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Core.Repositories
+namespace CleanArchitecture.Infra.Repositories
 {
-     public interface IProductRepository
+    internal class UnitOfWork
     {
-
     }
 }

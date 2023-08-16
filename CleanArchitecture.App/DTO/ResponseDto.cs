@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.App.DTO
 {
-    public class UserAdminDto
+    public class ResponseDto
     {
         public string Email { get; set; } = null!;
         public string Password { get; set; } = null!;
