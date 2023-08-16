@@ -1,6 +1,6 @@
 using CleanArchitecture.Core.Entities;
-using CleanArchitecture.Infra;
 using CleanArchitecture.Infra.Data;
+using CleanArchitecture.Infra.ServiceExtension;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
 

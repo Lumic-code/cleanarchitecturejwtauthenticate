@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r4jX2XDzGMJOFly4Jtj+V/V1Cnl89WSA7KI7Ma1h5pbj25S0tX7Ss+QoCbDQL3cmkOvpT5jh30PKxzCqkbutXw==",
+  "dgSpecHash": "jWHU0bnR4I/fycBUfbb5E5eZrAlV6MY74ejsRu1JYQ1UmrWIBaXs3HsycWRf/SSmqW+v8BaA8u0s6QI9N8Pr1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+  "projectFilePath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wisdo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\wisdo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",

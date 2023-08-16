@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj": {}
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+        "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
         "projectName": "CleanArchitecture.App",
-        "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+        "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\obj\\",
+        "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+        "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
         "projectName": "CleanArchitecture.Core",
-        "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+        "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\obj\\",
+        "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
         "projectName": "CleanArchitecture.Infra",
-        "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+        "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\obj\\",
+        "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,11 +176,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
-                "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
+              "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
+                "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
               },
-              "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
-                "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
+              "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
+                "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj": {
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj",
+        "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj",
         "projectName": "CleanArchitectureProj.API",
-        "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj",
+        "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitectureProj\\CleanArchitectureProj.API.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitectureProj\\obj\\",
+        "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitectureProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -249,8 +249,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
-                "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj"
+              "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
+                "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {}
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
+    "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+        "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
         "projectName": "CleanArchitecture.App",
-        "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
+        "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\obj\\",
+        "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
