@@ -2892,11 +2892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
       "projectName": "CleanArchitecture.Infra",
-      "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+      "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
       "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\obj\\",
+      "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2913,11 +2913,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
-              "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
+            "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
+              "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
             },
-            "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
-              "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
+            "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
+              "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
             }
           }
         }

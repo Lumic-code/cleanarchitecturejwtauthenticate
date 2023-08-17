@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6p2IBSx+n8pPY/dMmT6FAT7UYupwzWTMsT9epHFiCwfUaNSP/eyHzr8fJ7RjaOolZEUP/19vHIhwjkLagnsr5w==",
+  "dgSpecHash": "g0TesjTex6epe90PBhe485W0bNHRGus6feHtQjpJlwXHoj2xKqf+LT515svW9WjaGW7h331ibAPQp+HiHF6Y5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+  "projectFilePath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wisdo\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\wisdo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

@@ -2188,11 +2188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+      "projectUniqueName": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
       "projectName": "CleanArchitecture.Core",
-      "projectPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+      "projectPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
       "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\CleanArchitectureProj.API\\CleanArchitecture.Core\\obj\\",
+      "outputPath": "C:\\Users\\wisdo\\Source\\Repos\\cleanarchitecturejwtauthenticate\\CleanArchitecture.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wisdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
